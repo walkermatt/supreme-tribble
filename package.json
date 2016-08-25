@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-ramda",
+  "version": "0.0.1",
+  "description": "Toy React app using Redux and Ramda based on https://github.com/sitepoint-editors/immutable-redux-todo",
+  "scripts": {
+    "build": "webpack",
+    "build:watch": "nodemon --ignore bundle.js --ext js,css --exec 'npm run build'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.2"
+  }
+}

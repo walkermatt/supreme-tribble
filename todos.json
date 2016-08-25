@@ -1,0 +1,22 @@
+[
+    {
+        "text": "make components", 
+        "id": 0, 
+        "isDone": true
+    }, 
+    {
+        "text": "design actions", 
+        "id": 1, 
+        "isDone": false
+    }, 
+    {
+        "text": "implement reducer", 
+        "id": 2, 
+        "isDone": false
+    }, 
+    {
+        "text": "connect components", 
+        "id": 3, 
+        "isDone": false
+    }
+]
